@@ -13,11 +13,11 @@ https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w457121801_b894100_sleng.m
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA", SCTV
 https://cdnmdc2.useetv.com/joss/15/sctv/chunklist_w341299227_b1344100_sleng.m3u8?enc=50wihoWr_sU_YVVvm_yNDA&exp=1588385944
 
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA", MNCTV
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA", MNCTV
 https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1.m3u8
 
 #EXTINF:-1 tvg-logo="tvri" group-title="INDONESIA", TVRI
-https://etslive-2-vidio-com.akamaized.net/exp=1588376804~acl=/hls-p/ingest_6441_*/*~hmac=69db8b35740d538da068b342c94bf761618f19b37a0bb1f104f2ea517b4d07b4/hls-p/ingest_6441_480p/index.m3u8
+https://cdnmdc1.useetv.com/joss/15/tvri/chunklist_w1655297071_b684100_sleng.m3u8?enc=i-_hkyJZAwqiW3eNEwgxaw&exp=1588391744
 
 #EXTINF:-1 tvg-logo="Berita satu" group-title="INDONESIA", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -37,8 +37,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-logo="TV KU" group-title="INDONESIA", TV KU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/D4fhQdRMaUBB2JN2h0N4KbUauUw=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="INDONESIA", MNC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1588378709~acl=/hls-p/ingest_870_*/*~hmac=3d7652834e55cd46597ea385fcf55b572dbfacc57e68375aab3c4253d4e3337c/hls-p/ingest_870_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="INDONESIA", KIX TV
+https://cdnmdc1.useetv.com/joss/15/kix/chunklist_w1154405332_b1344100_sleng.m3u8?enc=l7r7s11RUItUyLI5mgpj_A&exp=1588391939
 
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDisney_Junior_(Asian_TV_channel)&psig=AOvVaw0qzIAZZAjdyS-lAvoU4UU6&ust=1588463517120000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID6tPHtk-kCFQAAAAAdAAAAABAD" group-title="INDONESIA", DISNEY JUNIOR 2
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -70,10 +70,10 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="INDONESIA", WB TV
 https://edgejt6.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng.m3u8?enc=Nh3ldl3JGTjx6vw6birybw&exp=1588386646
 
-#EXTINF:-1 tvg-logo="MIAOMI" group-title="KIDS",
+#EXTINF:-1 tvg-logo="MIAOMI" group-title="KIDS", MIAOMI TV
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="HOREE" group-title="KIDS",
+#EXTINF:-1 tvg-logo="HOREE" group-title="KIDS", HOREE
 https://edgejt6.useetv.com/joss/14/horee/chunklist_w711512506_b684100_sleng.m3u8?enc=nAdxca2TmynauNIrDGzeeg&exp=1588386909
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CN (CARTOON NETWORK)
